@@ -58,7 +58,6 @@ Strong foundations in Computer Science, hands-on with real-world datasets and pr
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lavanya294&show_icons=true&theme=radical" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lavanya294&theme=radical" height="160"/>
 </p>
 
