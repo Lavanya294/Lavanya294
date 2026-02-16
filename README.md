@@ -67,6 +67,7 @@ Strong foundations in Computer Science, hands-on with real-world datasets and pr
 ## 🌐 Connect
 
 - LinkedIn: https://linkedin.com/in/lavanyagupta04  
-- Email: lavanyagupta294@gmail.com  
+- Email: lavanyagupta294@gmail.com
+- GitHub: https://github.com/Lavanya294
 
 > *I let my repositories speak louder than this README.*
